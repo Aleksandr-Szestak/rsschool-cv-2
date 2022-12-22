@@ -89,8 +89,7 @@ body{
   background: #3989C9;
   display: flex;
   justify-content: space-between; 
-  align-items: center;
-  text-decoration: none;  
+  align-items: center;  
 }
 
 .box-top{
